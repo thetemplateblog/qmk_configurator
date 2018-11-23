@@ -1,9 +1,9 @@
 title: QMK Configurator
-email: hello@qmk.fm
+email: david@thetemplateblog.com
 show_downloads: true
 description: QMK for potatoes - an open source configurator for QMK Firmware (only the AVR boards right now)
 baseurl: ""
-url: "http://config.qmk.fm"
-github_username: qmk
-repository: qmk/qmk_configurator
+url: "https://qmk.childs.life"
+github_username: thetemplateblog
+repository: thetemplateblog/qmk_configurator
 theme: jekyll-theme-minimal
